@@ -1,0 +1,9 @@
+# Arrr! These here files shall not be committed to Davy Jones' locker (the repo)!
+venv/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+dist/
+build/

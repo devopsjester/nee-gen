@@ -1,0 +1,3 @@
+# Arrr! Here be the dependencies for this here project, matey!
+click
+requests
